@@ -13,6 +13,6 @@ So my code is very basic like I just generated "codes" like "ABCD1234" and then 
 OK! So we potentially hacked all the McDonald's accounts in the WORLD !! 
 
 Hmm.. Let's talk about probability to generate a valid barcode...
--> So 26 letters and 10 numbers we have 2,821,109,907,456 barcode possibilities (36^8) 
--> In France I have estimated there are 4,000,000 accounts so our probability to generated one of them is very very low (0,00014%).
--> And even if with a lot of chances we manage to connect to an account, the account must contain points ... 
+*-> So 26 letters and 10 numbers we have 2,821,109,907,456 barcode possibilities (36^8) 
+*-> In France I have estimated there are 4,000,000 accounts so our probability to generated one of them is very very low (0,00014%).
+*-> And even if with a lot of chances we manage to connect to an account, the account must contain points ... 
